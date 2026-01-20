@@ -1,7 +1,7 @@
 # Cybersecurity Projects Portfolio
 
 PDF documentation + automation scripts for my cybersecurity and networking projects.
-
+Updated for 20/01/2026 , More will be posted latter on.
 ## Projects
 - **Linux Fundamentals (Bash Automation)**
   - [PDF Report](./projects/Linux_Fundamentals_Project.pdf)
